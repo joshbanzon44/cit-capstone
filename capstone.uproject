@@ -16,8 +16,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Landmass",
+			"Name": "BlueprintColorPicker",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintColorPickerCustom",
+			"Enabled": false
 		}
 	]
 }
